@@ -1,0 +1,6 @@
+install.packages("tidyverse")
+library(tidyverse)
+remove.packages("stringr")
+install.packages("stringr")
+library(tidyverse)
+install.packages("usethis")
